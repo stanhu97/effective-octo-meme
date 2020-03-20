@@ -1,0 +1,23 @@
+[33mcommit c36a8185514a58af0ae0bfa65333a89257660b23[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Breiten <breiten@emperor-07.cs.wisc.edu>
+Date:   Fri Mar 13 11:13:56 2020 -0500
+
+    David's addition
+
+[33mcommit d692d9c6b99ee8dc4f7f3bf83b7212c1226f47a1[m
+Author: Ben Chiu <bchiu@royal-30.cs.wisc.edu>
+Date:   Thu Mar 12 01:17:46 2020 -0500
+
+    Ben's addition
+
+[33mcommit a36fbb3aa1b404ac92c1b281c1cf0dfa16bd9946[m
+Author: Baiying Hu <baiying@emperor-04.cs.wisc.edu>
+Date:   Fri Feb 28 14:17:06 2020 -0600
+
+    first paragraph
+
+[33mcommit cdea73105922b3ee8be0b017ad7b39bbe0e9cc04[m
+Author: stanhu97 <61575432+stanhu97@users.noreply.github.com>
+Date:   Fri Feb 28 00:16:04 2020 -0600
+
+    Initial commit
